@@ -1,0 +1,16 @@
+# Build artifacts
+target/
+/graphify-out/
+
+# Node.js
+node_modules/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
